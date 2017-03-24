@@ -1,3 +1,3 @@
 # Search House Helper
 
-developed by UncleYee with react-native
+Developed by [UncleYee](https://github.com/UncleYee) with react-native
