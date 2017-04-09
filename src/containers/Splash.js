@@ -6,7 +6,7 @@ import {
   View
 } from 'react-native';
 
-import Home from '../Home/Home';
+import Home from './Home';
 
 export default class Splash extends React.Component {
   static propTypes = {
