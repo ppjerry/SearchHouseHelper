@@ -1,6 +1,6 @@
 import React from 'react';
 import { Provider } from 'react-redux';
-import sotre from './sotre/sotre';
+import store from './store/store';
 
 import App from './App';
 

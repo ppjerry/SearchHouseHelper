@@ -6,7 +6,7 @@ import {
   Platform
 } from 'react-native';
 
-import Splash from './containers/Splash/Splash';
+import Splash from './containers/Splash';
 
 export default class App extends React.Component {
 
